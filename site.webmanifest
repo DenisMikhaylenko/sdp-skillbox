@@ -1,0 +1,18 @@
+{
+  "lang": "ru",
+  "dir": "ltr",
+  "name": "SitDownPls",
+  "short_name": "SDP",
+  "description": "Наш интернет-магазин предоставляет огромный выбор мебели и аксессуаров на любой вкус и цвет!",
+  "icons": [
+    { "src": "favicon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "img/favicons/favicon-25x25.png", "type": "image/png", "sizes": "25x25" },
+    { "src": "img/favicons/favicon-50x50.png", "type": "image/png", "sizes": "50x50" },
+    { "src": "img/favicons/favicon-75x75.png", "type": "image/png", "sizes": "75x75" },
+    { "src": "img/favicons/favicon-100x100.png", "type": "image/png", "sizes": "100x100" }
+  ],
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "hsl(0 0% 97%)",
+  "background_color": "hsl(0 0% 100%)"
+}
